@@ -1,5 +1,9 @@
 # Braceless [![Build Status](https://travis-ci.org/tweekmonster/braceless.vim.svg?branch=master)](https://travis-ci.org/tweekmonster/braceless.vim)
 
+## NOTE on branch:
+
+This branch just has a pull request which was never accepted upstream in it, as I need async indents.
+
 Text objects, folding, and more for Python and other indented languages.
 CoffeeScript support is already baked in, but mainly as an incomplete proof of
 concept.
